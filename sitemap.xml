@@ -3,7 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://rcmakes.github.io/learningservices/about/</loc>
+    <loc>https://rcmakes.github.io/products/giant-jenga/</loc>
+    <lastmod>2018-09-10T11:13:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rcmakes.github.io/products/aromarina/</loc>
+    <lastmod>2018-09-10T10:38:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rcmakes.github.io/expandedlearning/about/</loc>
     <lastmod>2018-09-02T13:06:28-07:00</lastmod>
   </url>
   
@@ -13,13 +23,13 @@
   </url>
   
   <url>
-    <loc>https://rcmakes.github.io/jobshop/about/</loc>
+    <loc>https://rcmakes.github.io/jobshop/business/about/</loc>
     <lastmod>2018-09-02T13:04:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rcmakes.github.io/products/about/</loc>
-    <lastmod>2018-09-02T13:03:28-07:00</lastmod>
+    <loc>https://rcmakes.github.io/jobshop/individuals/about/</loc>
+    <lastmod>2018-09-02T13:04:01-07:00</lastmod>
   </url>
   
   <url>
@@ -29,6 +39,11 @@
   
   <url>
     <loc>https://rcmakes.github.io/equipment/</loc>
+    <lastmod>2018-09-02T13:02:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rcmakes.github.io/press/</loc>
     <lastmod>2018-09-02T13:02:49-07:00</lastmod>
   </url>
   
@@ -48,6 +63,16 @@
   </url>
   
   <url>
+    <loc>https://rcmakes.github.io/press/grand-opening/</loc>
+    <lastmod>2017-04-27T13:46:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rcmakes.github.io/press/startup-funding/</loc>
+    <lastmod>2017-04-18T13:58:56-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://rcmakes.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -59,26 +84,26 @@
   </url>
   
   <url>
+    <loc>https://rcmakes.github.io/expandedlearning/</loc>
+    <lastmod>2018-09-02T13:06:28-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://rcmakes.github.io/jobshop/</loc>
     <lastmod>2018-09-02T13:04:01-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://rcmakes.github.io/learningservices/</loc>
-    <lastmod>2018-09-02T13:06:28-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://rcmakes.github.io/products/</loc>
-    <lastmod>2018-09-02T13:03:28-07:00</lastmod>
+    <lastmod>2018-09-10T11:13:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://rcmakes.github.io/</loc>
-    <lastmod>2018-09-02T13:06:28-07:00</lastmod>
+    <lastmod>2018-09-10T11:13:47-07:00</lastmod>
     <priority>0</priority>
   </url>
   

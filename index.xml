@@ -6,17 +6,36 @@
     <description>Recent content on Student-operated Makerspace in Camarillo, CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Sep 2018 13:06:28 -0700</lastBuildDate>
+    <lastBuildDate>Mon, 10 Sep 2018 11:13:47 -0700</lastBuildDate>
     
 	<atom:link href="https://rcmakes.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learning Services</title>
-      <link>https://rcmakes.github.io/learningservices/about/</link>
+      <title>Giant Jenga</title>
+      <link>https://rcmakes.github.io/products/giant-jenga/</link>
+      <pubDate>Mon, 10 Sep 2018 11:13:47 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/products/giant-jenga/</guid>
+      <description>Tumbling timbers for family fun. Laser engraved with RCHS logo. Storage bag included.
+Contact us for custom laser-engraving.</description>
+    </item>
+    
+    <item>
+      <title>Aromarina</title>
+      <link>https://rcmakes.github.io/products/aromarina/</link>
+      <pubDate>Mon, 10 Sep 2018 10:38:32 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/products/aromarina/</guid>
+      <description>Aromarina description goes here</description>
+    </item>
+    
+    <item>
+      <title>Expanded Learning</title>
+      <link>https://rcmakes.github.io/expandedlearning/about/</link>
       <pubDate>Sun, 02 Sep 2018 13:06:28 -0700</pubDate>
       
-      <guid>https://rcmakes.github.io/learningservices/about/</guid>
+      <guid>https://rcmakes.github.io/expandedlearning/about/</guid>
       <description></description>
     </item>
     
@@ -30,20 +49,20 @@
     </item>
     
     <item>
-      <title>Job Shop</title>
-      <link>https://rcmakes.github.io/jobshop/about/</link>
+      <title>Job Shop for Businesses</title>
+      <link>https://rcmakes.github.io/jobshop/business/about/</link>
       <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
       
-      <guid>https://rcmakes.github.io/jobshop/about/</guid>
+      <guid>https://rcmakes.github.io/jobshop/business/about/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Products</title>
-      <link>https://rcmakes.github.io/products/about/</link>
-      <pubDate>Sun, 02 Sep 2018 13:03:28 -0700</pubDate>
+      <title>Job Shop for Individuals</title>
+      <link>https://rcmakes.github.io/jobshop/individuals/about/</link>
+      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
       
-      <guid>https://rcmakes.github.io/products/about/</guid>
+      <guid>https://rcmakes.github.io/jobshop/individuals/about/</guid>
       <description></description>
     </item>
     
@@ -83,6 +102,25 @@ RCMakes may be operated by students but it is managed by the serial entrepreneur
       <guid>https://rcmakes.github.io/refund/</guid>
       <description>Return &amp;amp; Refund Policy Thank you for participation in RCMAKES. If you are not entirely satisfied with your purchase, we&amp;rsquo;re here to help.
 Returns You have 30 days to return an item from the date you received it. To be eligible for a return, your item must be unused and in the same condition that you received it. Your item must be in the original packaging. Your item needs to have the receipt or proof of purchase.</description>
+    </item>
+    
+    <item>
+      <title>Community Makerspace Grand Opening at Rancho Campana High School</title>
+      <link>https://rcmakes.github.io/press/grand-opening/</link>
+      <pubDate>Thu, 27 Apr 2017 13:46:18 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/press/grand-opening/</guid>
+      <description>RCMAKES, a student-operated business at Rancho Campana High School, is holding the Grand Opening of the Community Makerspace from 11:00 am to 2:00 pm on Saturday May 13th. There will be food trucks, corn hole, giant tumbling blocks, the RCMAKES store, memberships, activities, guided tours, demonstrations, kid’s crafts and more. The event is at Rancho Campana High School and is open to the public.
+The RCMAKES Community Makerspace is an 1,800 square-foot collaborative work space at Rancho Campana High School.</description>
+    </item>
+    
+    <item>
+      <title>RCMAKES Engineers $250,000 in Startup Funding</title>
+      <link>https://rcmakes.github.io/press/startup-funding/</link>
+      <pubDate>Tue, 18 Apr 2017 13:58:56 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/press/startup-funding/</guid>
+      <description>RCMAKES, a student-operated business at Rancho Campana High School, is launching with $250,000 in startup funding from engineer, entrepreneur and venture capitalist Dave Gross and his wife, Dawn Gross, Braille Manager at the Alternate Text Production Center. Mr. Gross currently teaches engineering and business classes offered at Rancho Campana through a partnership with the Ventura County Office of Education and Oxnard Union High School District. Mr.Gross will volunteer as general manager of the new venture.</description>
     </item>
     
   </channel>
