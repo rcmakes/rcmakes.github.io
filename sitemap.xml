@@ -23,17 +23,27 @@
   </url>
   
   <url>
-    <loc>https://rcmakes.github.io/jobshop/business/about/</loc>
+    <loc>https://rcmakes.github.io/jobshop/</loc>
     <lastmod>2018-09-02T13:04:01-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://rcmakes.github.io/jobshop/individuals/about/</loc>
+    <loc>https://rcmakes.github.io/jobshop/business/</loc>
+    <lastmod>2018-09-02T13:04:01-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rcmakes.github.io/jobshop/individuals/</loc>
     <lastmod>2018-09-02T13:04:01-07:00</lastmod>
   </url>
   
   <url>
     <loc>https://rcmakes.github.io/events/about/</loc>
+    <lastmod>2018-09-02T13:02:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rcmakes.github.io/makerspace/</loc>
     <lastmod>2018-09-02T13:02:49-07:00</lastmod>
   </url>
   
@@ -86,12 +96,6 @@
   <url>
     <loc>https://rcmakes.github.io/expandedlearning/</loc>
     <lastmod>2018-09-02T13:06:28-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rcmakes.github.io/jobshop/</loc>
-    <lastmod>2018-09-02T13:04:01-07:00</lastmod>
     <priority>0</priority>
   </url>
   
