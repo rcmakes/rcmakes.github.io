@@ -38,11 +38,6 @@
   </url>
   
   <url>
-    <loc>https://rcmakes.github.io/events/about/</loc>
-    <lastmod>2018-09-02T13:02:49-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://rcmakes.github.io/makerspace/</loc>
     <lastmod>2018-09-02T13:02:49-07:00</lastmod>
   </url>
@@ -54,6 +49,11 @@
   
   <url>
     <loc>https://rcmakes.github.io/press/</loc>
+    <lastmod>2018-09-02T13:02:49-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://rcmakes.github.io/events/</loc>
     <lastmod>2018-09-02T13:02:49-07:00</lastmod>
   </url>
   
@@ -84,12 +84,6 @@
   
   <url>
     <loc>https://rcmakes.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rcmakes.github.io/events/</loc>
-    <lastmod>2018-09-02T13:02:49-07:00</lastmod>
     <priority>0</priority>
   </url>
   
