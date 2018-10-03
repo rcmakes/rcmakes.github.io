@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://rcmakes.github.io/videoproduction/about/</loc>
+    <loc>https://rcmakes.github.io/videoproduction/</loc>
     <lastmod>2018-09-02T13:04:45-07:00</lastmod>
   </url>
   
@@ -107,12 +107,6 @@
   
   <url>
     <loc>https://rcmakes.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://rcmakes.github.io/videoproduction/</loc>
-    <lastmod>2018-09-02T13:04:45-07:00</lastmod>
     <priority>0</priority>
   </url>
   
