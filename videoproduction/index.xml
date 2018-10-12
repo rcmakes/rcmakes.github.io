@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Videoproductions on Student-operated Makerspace in Camarillo, CA</title>
+    <title>Video Production on Student-operated Makerspace in Camarillo, CA</title>
     <link>https://rcmakes.github.io/videoproduction/</link>
-    <description>Recent content in Videoproductions on Student-operated Makerspace in Camarillo, CA</description>
+    <description>Recent content in Video Production on Student-operated Makerspace in Camarillo, CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 11:26:05 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 02 Sep 2018 13:04:45 -0700</lastBuildDate>
     
 	<atom:link href="https://rcmakes.github.io/videoproduction/index.xml" rel="self" type="application/rss+xml" />
     
@@ -35,33 +35,6 @@
       <pubDate>Wed, 26 Sep 2018 16:25:04 -0700</pubDate>
       
       <guid>https://rcmakes.github.io/videoproduction/rcfresh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Springbreak2</title>
-      <link>https://rcmakes.github.io/videoproduction/springbreak2/</link>
-      <pubDate>Mon, 24 Sep 2018 16:36:42 -0700</pubDate>
-      
-      <guid>https://rcmakes.github.io/videoproduction/springbreak2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Springbreak1</title>
-      <link>https://rcmakes.github.io/videoproduction/springbreak1/</link>
-      <pubDate>Sun, 23 Sep 2018 16:26:37 -0700</pubDate>
-      
-      <guid>https://rcmakes.github.io/videoproduction/springbreak1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Video Production</title>
-      <link>https://rcmakes.github.io/videoproduction/about/</link>
-      <pubDate>Sun, 02 Sep 2018 13:04:45 -0700</pubDate>
-      
-      <guid>https://rcmakes.github.io/videoproduction/about/</guid>
       <description></description>
     </item>
     
