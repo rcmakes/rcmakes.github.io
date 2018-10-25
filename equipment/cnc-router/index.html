@@ -23,7 +23,7 @@
   
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU"
     crossorigin="anonymous">
-  <title>  Expanded Learning Services |  RCMakes</title>
+  <title>  CNC Router |  RCMakes</title>
 </head>
 
 <body>
@@ -80,63 +80,78 @@
     
     
 
-<div class="row">
+  <section class="row mt-2">
+    <div class="col-lg-12">
+      <h1>CNC Router</h1>
+    </div>
+  </section>
 
-  <div class="col-lg-12">
+  <section class="row mt-2">
 
-    <div class="jumbotron py-3">
-        <h1 class="display-4">
-          Expanded Learning Services
-        </h1>
-        <p class="lead">Excel in Class and at Work</p>
-        <hr class="my-4">
-        <p>
-          We offer a variety of supplemental workshops that expand on what is being taught in the classroom. Students gain valuable knowledge and skills they can apply to both the classroom and their career.
-        </p>
-      </div>
-
-  </div>
-</div>
-
-<div class="row">
-  
-  <div class="col-lg-4 col-md-6 mb-4">
-    <div class="card">
-      <img class="card-img-top" src="/img/tighty-dwighty-tedx-1200x900.jpg" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">How to Speak To a Crowd</h5>
-        <h6 class="card-subtitle mb-2 text-muted">Public Speaking Workshop</h6>
-        <p class="card-text">
-          <p>This workshop introduces students to public speaking and teaches students basics in public speaking techniques. At the end of the workshop, students will have gained skills that will help them to present with confidence in public and classroom settings.</p>
-
-        </p>
-        <a href="/expandedlearning/howtospeaktoacrowd/" class="btn btn-primary">View Details</a>
-      </div>
+    <div class="col-lg-4">
+            <img src="/equipment/cnc-router.jpg" alt="" class="img-fluid rounded">
     </div>
 
-  </div>
-  
-  <div class="col-lg-4 col-md-6 mb-4">
-    <div class="card">
-      <img class="card-img-top" src="/img/ABP-jenga-bridge-1200x900.jpg" alt="Card image cap">
-      <div class="card-body">
-        <h5 class="card-title">Academy Bridge Program</h5>
-        <h6 class="card-subtitle mb-2 text-muted">Summer Enrichment for Incoming Freshmen</h6>
-        <p class="card-text">
-          <p>This three-week summer program exposes incoming freshmen to
-woodworking, metalworking, solid modeling, 3D printing, laser
-cutting, and coding to help them prepare for the multitude of courses
-Rancho Campana High School has to offer.</p>
+    <div class="col-lg-8">
+      <p>
 
-        </p>
-        <a href="/expandedlearning/academybridgeprogram/" class="btn btn-primary">View Details</a>
-      </div>
-    </div>
+<h5 id="safety-guidelines">Safety Guidelines:</h5>
 
-  </div>
-  
+<ol>
+<li><p>Using the Cam G-code generation software &ldquo;CamBam&rdquo;, design the pattern you wish to be engraved/drilled into the chosen material.
+IMPORTANT: DO NOT CLOSE THE CAMBAM SOFTWARE. At the time of the writing of these instructions, we are using Cambam on a trial use basis. This is subject to change.</p></li>
+
+<li><p>Save the engraving file as a g-code, or .nc file. Save it in the &ldquo;cnc router files&rdquo; folder, in the &ldquo;engraving files&rdquo; subfolder.
+Note: You will also be given the option to save your work as a .cb file. .cb files are to allow editing within Cambam, and will not allow you to proceed to the engraving phase. Save them under the &ldquo;cnc router files&rdquo; folder, in the &ldquo;cambam files&rdquo; subfolder.</p></li>
+
+<li><p>Open the mach3 program. On the desktop, there are two icons named &ldquo;mach3&rdquo; and &ldquo;mach3Mill&rdquo;. Both of these will open a program similar enough to be inconsequential for basic use.</p></li>
+
+<li><p>Using the clamps on the operating surface of the CNC router, secure the operating material and/or any supporting material.
+Note that if supporting material is used, the operating material must be flat to prevent mistakes from occuring as the CNC Router operates.</p></li>
+
+<li><p>Switch the SXCNC Desktop CNC Engraving Machine Module (located under the monitor) on. Both switches labeled &ldquo;Pump&rdquo; must also be switched on.</p></li>
+
+<li><p>Raise the spindle a safe distance away from the operating material. Zero all coordinates. Run the machine to guage where the spindle will go while executing the program. Adjust the spindle&rsquo;s position as necessary. Repeat until you are satisfied.</p></li>
+
+<li><p>Once you are satisfied with the spindle&rsquo;s position, press the green &ldquo;Run&rdquo; button on the CNC router module underneath the monitor. Adjust the spindle speed with the dial as needed.</p></li>
+
+<li><p>Lower the spindle to the operating material. Press &ldquo;start&rdquo; on the mach3 interface.</p></li>
+
+<li><p>Observe the CNC Router while having the mouse hover over the &ldquo;stop&rdquo; button on the mach3 interface.</p></li>
+
+<li><p>When the CNC Router is done operating, raise the spindle as far as it will go. Undo the clamps securing the operating material. Carefuly remove the operating material.</p></li>
+
+<li><p>Turn of the CNC Router module under the monitor.</p></li>
+</ol>
+
+<h5 id="how-to-use">How to Use:</h5>
+
+<ol>
+<li><p>Make sure the metal you are using is ferrous (steel only). Do not grind aluminum, copper, bronze or brass.</p></li>
+
+<li><p>Flip the switch in the middle of the machine to the on (left) position.</p></li>
+
+<li><p>wait for it to come to full speed before touching material to it.</p></li>
+
+<li><p>Make sure the piece of meatal is secure (ie. holding it in a vice grip).</p></li>
+
+<li><p>Begin grinding the meatal until you are finished.</p></li>
+
+<li><p>Switch the machine to the off (right) position.</p></li>
+</ol>
+
+<h3 id="cnc-router-tutorial">CNC Router Tutorial</h3>
+
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="//www.youtube.com/embed/jeBWo95eOfs" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
 </div>
 
+</p>
+    </div>
+
+  </section>
+  
 
 
     
