@@ -29,7 +29,7 @@
 <body>
 
   <div id="navbar-container" class="mb-3">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-xl navbar-light bg-light">
   <a class="navbar-brand" href="/">
     <img src="/img/rcmakes-wordmark1.png" height="50" class="d-inline-block align-top" alt="">
   </a>
@@ -42,14 +42,11 @@
       <li class="nav-item">
         <a class="nav-link" href="/makerspace">Makerspace</a>
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Job Shop
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <a class="dropdown-item" href="/jobshopforbusiness">For Businesses</a>
-          <a class="dropdown-item" href="/jobshopforindividuals">For Individuals</a>
-        </div>
+      <li class="nav-item">
+        <a class="nav-link" href="/jobshopforbusiness">Jobshop For Businesses</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/jobshopforindividuals">Jobshop For Individuals</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/videoproduction">Video Production</a>
@@ -89,7 +86,26 @@
   <section class="row mt-4">
 
     
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-4 col-md-6 pb-3">
+        <div class="card">
+          <a href="/products/custom-cornhole/">
+            <img class="card-img-top" src="/products/custom-cornhole-400x400.jpg" alt="Card image cap">
+          </a>
+          <div class="card-body">
+            <a href="/products/custom-cornhole/">
+              <h5 class="card-title">Custom Cornhole</h5>
+            </a>
+            <p class="card-text"><p>Custom cornhole description goes here</p>
+</p>
+            <h6 class="card-title">$200</h6>
+            <a href="/products/custom-cornhole/" class="btn btn-primary">View Product</a>
+            <a href="https://freedommerchants.com/rcmakes.html?qbinvoice=true&amp;invoicenum=------&amp;amt=200&amp;desc=Custom%20Cornhole" target="_blank" class="btn btn-primary ml-2">Buy Now</a>
+          </div>
+        </div>
+      </div>
+
+    
+      <div class="col-lg-4 col-md-6 pb-3">
         <div class="card">
           <a href="/products/giant-jenga/">
             <img class="card-img-top" src="/products/giant-jenga.jpg" alt="Card image cap">
@@ -110,7 +126,7 @@
       </div>
 
     
-      <div class="col-lg-4 col-md-6">
+      <div class="col-lg-4 col-md-6 pb-3">
         <div class="card">
           <a href="/products/aromarina/">
             <img class="card-img-top" src="/products/aromarina.png" alt="Card image cap">
@@ -131,6 +147,16 @@
     
 
   </section>
+
+  <div class="jumbotron py-3">
+    <h1 class="display-4">Can't find what you're looking for?</h1>
+    <p class="lead">
+      Learn more about our custom creations!
+    </p>
+    <a class="btn btn-primary btn-lg" href="\jobshopforindividuals" role="button">
+      See more
+    </a>
+  </div>
   
 
 

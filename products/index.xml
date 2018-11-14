@@ -6,10 +6,19 @@
     <description>Recent content in Products on Student-operated Makerspace in Camarillo, CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Sep 2018 11:13:47 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 13:20:51 -0700</lastBuildDate>
     
 	<atom:link href="https://rcmakes.github.io/products/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Custom Cornhole</title>
+      <link>https://rcmakes.github.io/products/custom-cornhole/</link>
+      <pubDate>Sat, 03 Nov 2018 13:20:51 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/products/custom-cornhole/</guid>
+      <description>Custom cornhole description goes here</description>
+    </item>
     
     <item>
       <title>Giant Jenga</title>
