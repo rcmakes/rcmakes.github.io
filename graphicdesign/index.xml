@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphic Design on Student-operated Makerspace in Camarillo, CA</title>
+    <link>https://rcmakes.github.io/graphicdesign/</link>
+    <description>Recent content in Graphic Design on Student-operated Makerspace in Camarillo, CA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Sep 2018 13:06:28 -0700</lastBuildDate>
+    
+	<atom:link href="https://rcmakes.github.io/graphicdesign/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kiwins Training Conference</title>
+      <link>https://rcmakes.github.io/graphicdesign/ktc/</link>
+      <pubDate>Sat, 12 Jan 2019 09:32:45 -0800</pubDate>
+      
+      <guid>https://rcmakes.github.io/graphicdesign/ktc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camarillo Air Show</title>
+      <link>https://rcmakes.github.io/graphicdesign/airshow/</link>
+      <pubDate>Sat, 12 Jan 2019 09:32:32 -0800</pubDate>
+      
+      <guid>https://rcmakes.github.io/graphicdesign/airshow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spooky Social</title>
+      <link>https://rcmakes.github.io/graphicdesign/spookysocial/</link>
+      <pubDate>Sat, 12 Jan 2019 09:32:13 -0800</pubDate>
+      
+      <guid>https://rcmakes.github.io/graphicdesign/spookysocial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

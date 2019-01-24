@@ -6,10 +6,37 @@
     <description>Recent content on Student-operated Makerspace in Camarillo, CA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 15 Dec 2018 09:04:42 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Jan 2019 09:32:45 -0800</lastBuildDate>
     
 	<atom:link href="https://rcmakes.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Kiwins Training Conference</title>
+      <link>https://rcmakes.github.io/graphicdesign/ktc/</link>
+      <pubDate>Sat, 12 Jan 2019 09:32:45 -0800</pubDate>
+      
+      <guid>https://rcmakes.github.io/graphicdesign/ktc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camarillo Air Show</title>
+      <link>https://rcmakes.github.io/graphicdesign/airshow/</link>
+      <pubDate>Sat, 12 Jan 2019 09:32:32 -0800</pubDate>
+      
+      <guid>https://rcmakes.github.io/graphicdesign/airshow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spooky Social</title>
+      <link>https://rcmakes.github.io/graphicdesign/spookysocial/</link>
+      <pubDate>Sat, 12 Jan 2019 09:32:13 -0800</pubDate>
+      
+      <guid>https://rcmakes.github.io/graphicdesign/spookysocial/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Film Festival</title>
@@ -334,12 +361,12 @@ Storage bag included.</description>
     </item>
     
     <item>
-      <title>3D Printing</title>
-      <link>https://rcmakes.github.io/jobshopforindividuals/3dprinting/</link>
+      <title>3D Printers</title>
+      <link>https://rcmakes.github.io/makerspace/3d-printers/</link>
       <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
       
-      <guid>https://rcmakes.github.io/jobshopforindividuals/3dprinting/</guid>
-      <description> Great For: </description>
+      <guid>https://rcmakes.github.io/makerspace/3d-printers/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -348,6 +375,15 @@ Storage bag included.</description>
       <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
       
       <guid>https://rcmakes.github.io/jobshopforbusiness/3d-printing-package/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buttons</title>
+      <link>https://rcmakes.github.io/makerspace/buttons/</link>
+      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/buttons/</guid>
       <description></description>
     </item>
     
@@ -370,15 +406,6 @@ Storage bag included.</description>
     </item>
     
     <item>
-      <title>Custom Cornhole</title>
-      <link>https://rcmakes.github.io/jobshopforindividuals/customcornhole/</link>
-      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
-      
-      <guid>https://rcmakes.github.io/jobshopforindividuals/customcornhole/</guid>
-      <description> Great For:  Weddings   </description>
-    </item>
-    
-    <item>
       <title>Custom Engraved Water Bottles</title>
       <link>https://rcmakes.github.io/jobshopforbusiness/custom-water-bottles/</link>
       <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
@@ -388,12 +415,21 @@ Storage bag included.</description>
     </item>
     
     <item>
-      <title>Laser Engraving</title>
-      <link>https://rcmakes.github.io/jobshopforindividuals/laserengraving/</link>
+      <title>Laser Cutter</title>
+      <link>https://rcmakes.github.io/makerspace/laser-cutter/</link>
       <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
       
-      <guid>https://rcmakes.github.io/jobshopforindividuals/laserengraving/</guid>
-      <description> Great For:  Water Bottles Phones Dog Tags -Clipboards  </description>
+      <guid>https://rcmakes.github.io/makerspace/laser-cutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leatherworking</title>
+      <link>https://rcmakes.github.io/makerspace/leatherworking/</link>
+      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/leatherworking/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -412,15 +448,6 @@ Storage bag included.</description>
       
       <guid>https://rcmakes.github.io/jobshopforbusiness/tedx-camarillo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Vinyl Cutouts</title>
-      <link>https://rcmakes.github.io/jobshopforindividuals/vinylcutouts/</link>
-      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
-      
-      <guid>https://rcmakes.github.io/jobshopforindividuals/vinylcutouts/</guid>
-      <description> Great For:  Weddings    </description>
     </item>
     
     <item>
@@ -505,6 +532,33 @@ The RCMAKES Community Makerspace is an 1,800 square-foot collaborative work spac
       
       <guid>https://rcmakes.github.io/press/startup-funding/</guid>
       <description>RCMAKES, a student-operated business at Rancho Campana High School, is launching with $250,000 in startup funding from engineer, entrepreneur and venture capitalist Dave Gross and his wife, Dawn Gross, Braille Manager at the Alternate Text Production Center. Mr. Gross currently teaches engineering and business classes offered at Rancho Campana through a partnership with the Ventura County Office of Education and Oxnard Union High School District. Mr.Gross will volunteer as general manager of the new venture.</description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>https://rcmakes.github.io/makerspace/electronics/</link>
+      <pubDate>Sun, 02 Sep 2012 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textiles</title>
+      <link>https://rcmakes.github.io/makerspace/textiles/</link>
+      <pubDate>Sun, 02 Sep 2012 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/textiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machines Ready for Woodworking</title>
+      <link>https://rcmakes.github.io/makerspace/woodworking/</link>
+      <pubDate>Sat, 02 Sep 2000 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/woodworking/</guid>
+      <description></description>
     </item>
     
     <item>

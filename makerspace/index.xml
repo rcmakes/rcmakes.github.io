@@ -11,5 +11,68 @@
 	<atom:link href="https://rcmakes.github.io/makerspace/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>3D Printers</title>
+      <link>https://rcmakes.github.io/makerspace/3d-printers/</link>
+      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/3d-printers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Buttons</title>
+      <link>https://rcmakes.github.io/makerspace/buttons/</link>
+      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/buttons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laser Cutter</title>
+      <link>https://rcmakes.github.io/makerspace/laser-cutter/</link>
+      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/laser-cutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leatherworking</title>
+      <link>https://rcmakes.github.io/makerspace/leatherworking/</link>
+      <pubDate>Sun, 02 Sep 2018 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/leatherworking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Electronics</title>
+      <link>https://rcmakes.github.io/makerspace/electronics/</link>
+      <pubDate>Sun, 02 Sep 2012 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Textiles</title>
+      <link>https://rcmakes.github.io/makerspace/textiles/</link>
+      <pubDate>Sun, 02 Sep 2012 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/textiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machines Ready for Woodworking</title>
+      <link>https://rcmakes.github.io/makerspace/woodworking/</link>
+      <pubDate>Sat, 02 Sep 2000 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/woodworking/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
