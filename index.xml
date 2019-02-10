@@ -48,7 +48,7 @@
     </item>
     
     <item>
-      <title>TEDx Youth</title>
+      <title>TEDx RanchoCampanaHS</title>
       <link>https://rcmakes.github.io/expandedlearning/tedxyouth/</link>
       <pubDate>Sat, 15 Dec 2018 08:51:11 -0800</pubDate>
       
@@ -456,8 +456,8 @@ Storage bag included.</description>
       <pubDate>Sat, 01 Sep 2018 16:43:47 -0700</pubDate>
       
       <guid>https://rcmakes.github.io/about/</guid>
-      <description>About RCMakes RCMakes is a community makerspace and industrial job shop operated by students and is located within the scene shop of Rancho Campana High School.
-RCMakes may be operated by students but it is managed by the serial entrepreneur and mechanical engineer, Dave Gross, who founded RCMakes as well as NewCo Foundation in 2017. Gross graduated University of California Santa Barbara with a Bachelors in Mechanical Engineering and Environmental Studies.</description>
+      <description>About RCMakes RCMakes is a non-profit conglomerate operated by students at Rancho Campana High School. Services include an online store selling wares made by students, a community makerspace, a build-to-spec job shop for individual and business customers, expanded learning programs for incoming and current high school students, video production, software development and graphic design.
+RCMakes may be operated by students but it is managed by the serial Dave Gross who founded RCMakes and NewCo Foundation in 2017.</description>
     </item>
     
     <item>
@@ -558,6 +558,15 @@ The RCMAKES Community Makerspace is an 1,800 square-foot collaborative work spac
       <pubDate>Sat, 02 Sep 2000 13:04:01 -0700</pubDate>
       
       <guid>https://rcmakes.github.io/makerspace/woodworking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open to the Community</title>
+      <link>https://rcmakes.github.io/makerspace/community-makerspace/</link>
+      <pubDate>Sun, 02 Sep 1742 13:04:01 -0700</pubDate>
+      
+      <guid>https://rcmakes.github.io/makerspace/community-makerspace/</guid>
       <description></description>
     </item>
     
